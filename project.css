@@ -1,0 +1,55 @@
+#p1 {
+  color: #131b2e
+}
+
+#p2 {
+  color: rgb(197, 153, 6)
+}
+
+#p3 {
+  color: red
+}
+
+#p4 {
+  color: rgb(23, 228, 235)
+}
+
+.state-tourism{
+margin-left: 260px;
+color: black;
+}
+
+.pclass {
+  border: 1px solid green;
+  border-radius: 5px;
+}
+
+.states{
+color: black;
+text-decoration: none;
+}
+
+.hborder {
+  border: 5px solid black
+}
+
+.bborder {
+  border: 5px solid black
+}
+
+#headcolor {
+  color: rgba(255, 209, 6, 0.589)
+}
+
+a{
+  color: black;
+}
+
+.bgimg {
+  background-image: url(https://www.maven-infotech.com/wp-content/uploads/2020/01/119059.jpg)
+}
+
+.card-image {
+  height: 300px;
+  width: auto;
+}
